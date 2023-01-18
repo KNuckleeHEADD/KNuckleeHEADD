@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=knuckleeheadd&show_icons=true&locale=en" alt="knuckleeheadd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=knuckleeheadd&" alt="knuckleeheadd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.vercel.com/?user=knuckleeheadd&" alt="knuckleeheadd" /></p>
 
